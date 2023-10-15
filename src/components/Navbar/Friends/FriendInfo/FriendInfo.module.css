@@ -1,0 +1,21 @@
+.friend{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-self: flex-start;
+    align-items: center;
+
+}
+
+.friend__img{
+    width: 3em;
+    border-radius: 50px;
+    display: block;
+    margin-right: 15px;
+}
+
+.friend__name{
+    font-size: 1.5rem;
+    color: black;
+    font-weight: lighter;
+}

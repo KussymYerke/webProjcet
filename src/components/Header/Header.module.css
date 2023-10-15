@@ -1,0 +1,30 @@
+.header{
+    grid-area: h;
+    background: #FFE45E;
+    border: 1px solid #FFE45E;
+    border-radius: 15px;
+    padding: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.link{
+    text-decoration: none;
+    color: dodgerblue;
+}
+.logo{
+    font-size: 48px;
+    color: deepskyblue;
+}
+.header img{
+    width: 55px;
+}
+
+.loginBlock{
+    float: right;
+}
+
+.loginBlock a{
+    color: white;
+}

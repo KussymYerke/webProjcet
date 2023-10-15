@@ -1,0 +1,33 @@
+.photo{
+    width: 100px;
+    height: 100px;
+}
+
+.user{
+    background: #5AA9E6;
+    border: 1px solid #5AA9E6;
+    border-radius: 25px;
+    padding-left: 25px;
+    padding-bottom: 25px;
+    box-shadow: 6px 6px 2px 1px rgba(0, 0, 0, .2);
+}
+.selectedPage{
+    font-weight: bold;
+}
+
+.profile{
+    display: flex;
+    margin-bottom: 15px;
+    margin-top: 15px;
+    gap: 10px;
+}
+
+
+.name{
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.status{
+    margin-bottom: 10px;
+}

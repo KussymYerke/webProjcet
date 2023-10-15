@@ -1,0 +1,11 @@
+.friends{
+    margin-top: 2rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    gap: 0.5rem;
+}
+
+.friends__title{
+    color: black;
+}
